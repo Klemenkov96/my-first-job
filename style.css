@@ -442,7 +442,7 @@
 	font-family: "Tinos", serif;
 	font-size:54px;
 	text-align: center;
-	padding top: 100px;
+	padding-top: 100px;
 	margin-bottom: 60px;
 }
 
@@ -546,10 +546,6 @@ button {
 	.menu-item {
 		margin: 20px auto;
 		width: 600px;
-	}
-
-	.menu-item:nth-child(n+2) {
-		display: none;
 	}
 
 	.header-title {
